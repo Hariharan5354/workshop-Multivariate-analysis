@@ -55,6 +55,7 @@ sns.heatmap(df.corr(),annot=False)
 ```
 #Output
 Bivariate analysis
+
 Data set
 
 ![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/21.png)
@@ -123,4 +124,5 @@ Heatmap
 ![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/37.png)
 
 #Result
+
 Thus the Bivariate and Multivariate analysis is observerd for the given data set.
