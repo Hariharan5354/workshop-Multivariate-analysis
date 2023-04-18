@@ -5,6 +5,7 @@
 To perform multivarient analysis on the given data set.
 
 #Algorithm
+
 1.Clean the data 
 2.Remove outliers 
 3.Apply the skew function and Kurtosis 
