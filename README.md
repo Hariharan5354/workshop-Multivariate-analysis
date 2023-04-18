@@ -57,35 +57,70 @@ sns.heatmap(df.corr(),annot=False)
 Bivariate analysis
 Data set
 
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/21.png)
+
 Info
+
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/22.png)
+
 
 Null values
 
-after cleaning
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/23.png)
 
-shape
+After cleaning
 
-skew
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/24.png)
 
-kurtosis
+Shape
+
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/25.png)
+
+Skew
+
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/26.png)
+
+Kurtosis
+
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/27.png)
+
 
 Scatterplot for numerical and numerical
 
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/28.png)
+
+
 Boxplot for numerical and catagorical
+
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/29.png)
 
 Displot
 
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/30.png)
+
 Barplot
+
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/31.png)
 
 Multivariate analysis Price and Source
 
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/32.png)
+
 Price and Dep_Time
+
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/33.png)
 
 Price and Airline
 
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/34.png)
+
 Corr()
 
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/36.png)
+
 Heatmap
+
+![](https://raw.githubusercontent.com/Hariharan5354/workshop-Multivariate-analysis/main/37.png)
 
 #Result
 Thus the Bivariate and Multivariate analysis is observerd for the given data set.
